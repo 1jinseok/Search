@@ -13,8 +13,13 @@ You'll recall from EE 16B that given a continuous-time system, we can sample or 
 Graph state-space models take another step of also discretizing in the spatial dimensions to have a finite number of possible states.
 
 Navigating this repository
+
 Note is contained in State Spaces and Search Note.pdf
+
 Slide Deck is contained in State Spaces and Search Slide Deck.pdf
+
 Code is contained in State Spaces and Search.ipynb
+
 Quiz Questions are contained in State Spaces and Search Quiz Questions.pdf
+
 
