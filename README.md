@@ -13,12 +13,14 @@ Upon completion of this lesson, the student will be able to:
 
 2. Use common uninformed search algorithms (BFS, DFS, and UCS) to solve search problems, generating nodes on-demand. 
 
+3. Understand the strengths and weaknesses of different search algorithms.
+
 3. Identify how to create useful heuristics and use them to inform the search process.
 
 4. Implement informed search algorithms such as Greedy and A*, and apply them to efficiently solving a wide variety of problems in Artificial Intelligence. 
 
 ## How this assignment helps with that 
-The assignment builds on a problem of robotic manipulation that students may find familiar. It then delves into the process of designing state-space representations with the example of a 6DOF robotic manipulator, allowing students to see how we can turn a real-life scenario into a graph search problem. 
+The assignment builds off of the problem of robotic manipulation which students in EECS 16B will find familiar. It then delves into the process of designing state-space representations for the 6DOF robotic manipulator, allowing students to observe how we can turn a real-life scenario into a graph search problem. 
 
 Students then take on the meat of the challenge, namely implementing both the uninformed and informed search algorithms on a graph. They compare the performance of these search algorithms and see how they are able to use it to get a path from the start to the goal. Finally, they are able to put the pieces together and use their search algorithm to solve the original problem in path planning for a robotic manipulator. 
 
