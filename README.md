@@ -26,12 +26,16 @@ Students then take on the meat of the challenge, namely implementing both the un
 
 ## Navigating this repository
 
-Note is contained in State Spaces and Search Note.pdf
+Note is contained in Note.pdf
 
-Slide Deck is contained in State Spaces and Search Slide Deck.pdf
+Slide Deck is contained in State Spaces and Search Slides.pdf
 
 Code is contained in State Spaces and Search.ipynb
 
-Quiz Questions are contained in State Spaces and Search Quiz Questions.pdf
+Code solution is contained in State_Spaces_and_Search_Solution.ipynb
+
+Quiz Questions are contained in Quiz Questions State Spaces and Search.pdf
+
+Quiz Solutions are contained in Quiz Solutions State Spaces and Search.pdf
 
 
